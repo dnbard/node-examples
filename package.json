@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-examples",
+  "version": "1.0.0",
+  "description": "NodeJS examples for Back-end training",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnbard/node-examples.git"
+  },
+  "author": "Alex Bardanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnbard/node-examples/issues"
+  },
+  "homepage": "https://github.com/dnbard/node-examples#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "koa": "^1.0.0",
+    "mongodb": "^2.0.43"
+  }
+}
